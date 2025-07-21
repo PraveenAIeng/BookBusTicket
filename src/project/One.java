@@ -5,5 +5,6 @@ public class One {
 	
 	public void mm() {
 		Main.busMatrix = null;
+		String item = "Item"; 
 	}
 }

@@ -188,7 +188,7 @@ public class Main {
 				System.exit(choise);
 				break;
 			default:
-				System.out.println("Enter Valid input...****");
+				System.out.println("Enter Valid input...**** #####");
 			}
 			
 		}
